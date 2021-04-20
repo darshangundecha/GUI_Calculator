@@ -14,6 +14,7 @@ top=Tk()
 top.geometry("400x500")
 top.minsize(width=400, height=500)
 top.maxsize(width=400, height=500)
+top.title("Calculator by Darshan Gundecha")
 scvalue=StringVar()
 scvalue.set("")
 
